@@ -28,3 +28,5 @@
 - statsmodels
 - XGBoost
 - Plotly
+
+[Просмотр с поддерржкой интерактивных графиков](https://nbviewer.org/github/dx2-66/data-science/blob/master/time_series_forecasting/time_series_forecasting.ipynb)
